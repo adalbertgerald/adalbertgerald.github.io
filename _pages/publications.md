@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
 title: publications
+permalink: /publications/
 description: Publications by categories in reversed chronological order.
 years: [2019, 2018, 2017, 2015]
 order: 4
