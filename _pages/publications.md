@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by categories in reversed chronological order.
+description: Peer-reviewed publications by year in reversed chronological order.
 years: [2019, 2018, 2017, 2015]
 order: 4
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of projects I am currently working on.
+description:
 order: 2
 ---
 <table>
@@ -13,5 +13,3 @@ order: 2
 </tr>
 {% endfor %}
 </table>
-
-NOTE: This page is under construction. Check back after sometime for more recent projects.

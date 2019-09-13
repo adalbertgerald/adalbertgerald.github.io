@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Adalbert Gerald</strong> Soosai Raj
+title: <strong>Adalbert Gerald</strong> Soosai Raj (aka Gerald)
 description:  
 
 profile:
