@@ -79,14 +79,22 @@ highlighter: pygments
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude:
+    - vendor
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - Rakefile
 
 # Plug-ins
 plugins:
+    - github-pages
     - jekyll-email-protect
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - unicode_utils
 
 # Jekyll-Scholar
 scholar:
