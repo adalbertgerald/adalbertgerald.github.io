@@ -23,9 +23,7 @@ My name is Adalbert Gerald Soosai Raj (aka Gerald). I am an Assistant Teaching
 Professor in Computer Science and Engineering at the University of California,
 San Diego (UCSD). Prior to joining UCSD, I completed an interdisciplinary Ph.D.
 in Computer Sciences and Education at the University of Wisconsin-Madison
-(UW-Madison). Before that, I did my Masters in Computer Sciences at UW-Madison
-and Bachealors in Information Technology at College of Engineering Guindy (CEG),
-Chennai.
+(UW-Madison). 
 
 I study effective, equitable, and inclusive ways to teach computing to a
 diverse set of learners. Specifically, I focus on designing and evaluating
