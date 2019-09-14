@@ -81,13 +81,7 @@ highlighter: pygments
 
 # Includes & excludes
 include: ['_pages']
-exclude:
-    - vendor
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - Rakefile
+exclude: [vendor]
 
 # Plug-ins
 plugins:
