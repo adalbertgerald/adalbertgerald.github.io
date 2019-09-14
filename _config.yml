@@ -85,12 +85,10 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-    - github-pages
     - jekyll-email-protect
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
-    - unicode_utils
 
 # Jekyll-Scholar
 scholar:
