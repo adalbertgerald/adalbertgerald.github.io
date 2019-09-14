@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Adalbert Gerald</strong> Soosai Raj (aka Gerald)
-description:  
+title: <strong>Adalbert Gerald</strong> Soosai Raj
+description: Teacher, Computing Education Researcher, Adventure Lover
 
 profile:
   align: right
@@ -19,17 +19,21 @@ social: false
 order: 1
 ---
 
-I am an Assistant Teaching Professor in Computer Science and Engineering at the
-University of California, San Diego (UCSD). Prior to joining UCSD, I completed
-an interdisciplinary Ph.D. in Computer Sciences and Education at the University
-of Wisconsin-Madison (UW-Madison).
+My name is Adalbert Gerald Soosai Raj (aka Gerald). I am an Assistant Teaching
+Professor in Computer Science and Engineering at the University of California,
+San Diego (UCSD). Prior to joining UCSD, I completed an interdisciplinary Ph.D.
+in Computer Sciences and Education at the University of Wisconsin-Madison
+(UW-Madison). Before that, I did my Masters in Computer Sciences at UW-Madison
+and Bachealors in Information Technology at College of Engineering Guindy (CEG),
+Chennai.
 
-I study equitable and effective ways to teach computing to a diverse set of
-learners. Specifically, I focus on designing and evaluating student-centered
-approaches for teaching computing to non-native English speakers; study the role
-of live-coding, an active learning technique to teach programming for beginning
-programmers; develop innovative methods to teach a second programming language
-to people who already know how to program in a different language.
+I study effective, equitable, and inclusive ways to teach computing to a
+diverse set of learners. Specifically, I focus on designing and evaluating
+student-centered approaches for teaching computing to non-native English
+speakers; study the role of live-coding, an active learning technique to teach
+programming for beginning programmers; develop innovative methods to teach a
+second programming language to people who already know how to program in a
+different language.
 
 I deeply care about diversity in computing. While at UW-Madion, I designed and
 developed a mobile app development workshop for increasing the participation of
