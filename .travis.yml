@@ -11,4 +11,5 @@ deploy:
   target_branch: master
   on:
     branch: source
+    all_branches: true
 
