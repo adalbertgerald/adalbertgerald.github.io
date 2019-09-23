@@ -8,7 +8,7 @@ order: 3
 
 **University of California, San Diego**
 Fall 2019 (current)
-: [CSE 11](http://bit.ly/cse-11-fall-2019): Introduction to Computer Science and Object-oriented Programming in Java (Accelerated pace)
+: [CSE 11](http://bit.ly/cse-11-fall-2019): Introduction to Computer Science and Object-oriented Programming in Java (Accelerated pace) - co-teaching with [Niema Moshiri](https://niema.net/)
 
 ---
 
@@ -17,7 +17,7 @@ Spring 2019
 : [CS 354](http://pages.cs.wisc.edu/~gerald/cs354/Spring2019/): Intro to Computer Systems
 
 Fall 2018
-: [CS 301](https://tyler.caraza-harter.com/cs301/fall18/home.html): Intro to Data Programming using Python
+: [CS 301](https://tyler.caraza-harter.com/cs301/fall18/home.html): Intro to Data Programming using Python (co-taught with [Tyler Caraza-Harter](https://tyler.caraza-harter.com/))
 
 Spring 2018
 : [CS 354](http://pages.cs.wisc.edu/~gerald/cs354/Spring18/): Intro to Computer Systems
@@ -35,7 +35,7 @@ Summer 2016
 : [CS 302](http://pages.cs.wisc.edu/~gerald/cs302/): Intro to Programming in Java
 
 Spring 2016
-: [CS 354](http://pages.cs.wisc.edu/~gerald/cs354/Spring16/): Machine Organization and Programming
+: [CS 354](http://pages.cs.wisc.edu/~gerald/cs354/Spring16/): Machine Organization and Programming (co-taught with [Ganesh Kumar](http://pages.cs.wisc.edu/~ganz/))
 
 Spring 2015
 : [CS 402](https://sites.google.com/site/uwmadisoncsafterschool/): Introducing Computer Science to K-12 Students
