@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "Adalbert Gerald-Soosai Raj"
+name: "Adalbert Gerald  Soosai Raj"
 # email: gerald@eng.ucsd.edu
 # description: > # this means to ignore newlines until "url:"
 #   Academic website of Gerald
@@ -14,7 +14,7 @@ url: '' # the base hostname & protocol for your site
 baseurl: '' # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
-repository: adalbertgerald/adalbertgerald.github.io #adding as suggested by Travis CI 
+repository: adalbertgerald/adalbertgerald.github.io #adding as suggested by Travis CI
 
 # -----------------------------------------------------------------------------
 # Social integration
