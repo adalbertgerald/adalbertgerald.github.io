@@ -7,8 +7,15 @@ order: 3
 ---
 
 **University of California, San Diego**
-Fall 2019 (current)
-: [CSE 11](http://bit.ly/cse-11-fall-2019): Introduction to Computer Science and Object-oriented Programming in Java (Accelerated pace) - co-teaching with [Niema Moshiri](https://niema.net/)
+Spring 2020
+: [CSE 8B](https://sites.google.com/eng.ucsd.edu/cse8bspring2020): Introduction to Computer Science and Object-oriented Programming in Java (Part 2) - co-teaching with [Greg Miranda](https://www.gregmiranda.com/)
+
+Winter 2020
+: [CSE 8B](https://sites.google.com/eng.ucsd.edu/cse8b-winter2020/): Introduction to Computer Science and Object-oriented Programming in Java (Part 2) - co-taught with [Paul Cao](https://sites.google.com/a/eng.ucsd.edu/paul-yj-cao/)
+
+**University of California, San Diego**
+Fall 2019
+: [CSE 11](https://sites.google.com/eng.ucsd.edu/cse-11-fall-2019): Introduction to Computer Science and Object-oriented Programming in Java (Accelerated pace) - co-taught with [Niema Moshiri](https://niema.net/)
 
 ---
 
