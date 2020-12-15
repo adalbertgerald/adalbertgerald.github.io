@@ -7,6 +7,10 @@ order: 3
 ---
 
 **University of California, San Diego**
+Fall 2020
+: [CSE 8A](https://sites.google.com/eng.ucsd.edu/cse8afall2020): Introduction to Programming in Python - co-taught with [Sorin Lerner](http://cseweb.ucsd.edu/~lerner/)
+
+
 Spring 2020
 : [CSE 8B](https://sites.google.com/eng.ucsd.edu/cse8bspring2020): Introduction to Computer Science and Object-oriented Programming in Java (Part 2) - co-teaching with [Greg Miranda](https://www.gregmiranda.com/)
 
