@@ -22,19 +22,17 @@ order: 1
 My name is Adalbert Gerald Soosai Raj (aka Gerald). I am an Assistant Teaching
 Professor in Computer Science and Engineering at the University of California,
 San Diego (UCSD). Prior to joining UCSD, I completed an interdisciplinary Ph.D.
-in Computer Sciences and Education at the University of Wisconsin-Madison
-(UW-Madison).
+in Computer Sciences and Education at the University of Wisconsin-Madison.
 
 I study effective, equitable, and inclusive ways to teach computing to a
-diverse set of learners. Specifically, I focus on designing and evaluating
-student-centered approaches for teaching computing to non-native English
-speakers; study the role of live-coding, an active learning technique to teach
-programming for beginning programmers; develop innovative methods to teach a
-second programming language to people who already know how to program in a
-different language.
+diverse set of learners. Specifically, I focus on understanding the barriers
+that non-native English speakers face while learning programming, reducing these barriers
+by  designing and evaluating suitable interventions/tools to help them overcome those barriers.
+I also study the effectiveness of live coding, a teaching method based on cognitive apprenticeship,
+to teach programming processes (e.g., iterative development) for students with no prior programming experience.
 
-I deeply care about diversity in computing. While at UW-Madion, I designed and
-developed a mobile app development workshop for increasing the participation of
-under represented minorities (women, people of color, latinx, etc) in computing;
-taught scratch programming to elementary school children in Madison; and lead
-numerous outreach activities to introduce computing to people from diverse backgrounds.
+I deeply care about improving equity, diversity, and inclusion in computing. One of my goals is to make
+computing more accessible to everyone irrespective of their gender, race, culture, disability, etc.
+I constantly strive towards this goal by making my classroom and research lab as inclusive as possible. I believe
+by focusing on these efforts, one day we could truly make computing accessible for everyone!
+

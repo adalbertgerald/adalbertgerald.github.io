@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Courses that I am currently teaching and have taught in the past
-order: 3
+order: 2
 ---
 
 **University of California, San Diego**

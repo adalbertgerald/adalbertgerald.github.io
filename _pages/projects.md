@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description:
-order: 2
+order: 4
 ---
 <table>
 {% for project in site.projects %}
@@ -13,3 +13,4 @@ order: 2
 </tr>
 {% endfor %}
 </table>
+
