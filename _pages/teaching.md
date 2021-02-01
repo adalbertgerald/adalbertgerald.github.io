@@ -12,7 +12,7 @@ Fall 2020
 
 
 Spring 2020
-: [CSE 8B](https://sites.google.com/eng.ucsd.edu/cse8bspring2020): Introduction to Computer Science and Object-oriented Programming in Java (Part 2) - co-teaching with [Greg Miranda](https://www.gregmiranda.com/)
+: [CSE 8B](https://sites.google.com/eng.ucsd.edu/cse8bspring2020): Introduction to Computer Science and Object-oriented Programming in Java (Part 2) - co-taught with [Greg Miranda](https://www.gregmiranda.com/)
 
 Winter 2020
 : [CSE 8B](https://sites.google.com/eng.ucsd.edu/cse8b-winter2020/): Introduction to Computer Science and Object-oriented Programming in Java (Part 2) - co-taught with [Paul Cao](https://sites.google.com/a/eng.ucsd.edu/paul-yj-cao/)

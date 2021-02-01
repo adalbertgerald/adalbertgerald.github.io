@@ -32,7 +32,7 @@ I also study the effectiveness of live coding, a teaching method based on cognit
 to teach programming processes (e.g., iterative development) for students with no prior programming experience.
 
 I deeply care about improving equity, diversity, and inclusion in computing. One of my goals is to make
-computing more accessible to everyone irrespective of their gender, race, culture, disability, etc.
-I constantly strive towards this goal by making my classroom and research lab as inclusive as possible. I believe
-by focusing on these efforts, one day we could truly make computing accessible for everyone!
+computing more accessible to everyone irrespective of their gender, race, culture, etc.
+I constantly strive towards making my classroom and research lab more inclusive. I believe
+by focusing on these efforts, one day we could truly make computing inclusive and accessible for everyone!
 
