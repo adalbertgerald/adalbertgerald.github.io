@@ -7,6 +7,13 @@ order: 2
 ---
 
 **University of California, San Diego**
+Spring 2021
+: [CSE 3](https://sites.google.com/eng.ucsd.edu/cse-3-spring-2021/): Beauty and Joy of Computing (aka Fluency in Information Technology)
+
+Winter 2021
+: [CSE 291/190](https://sites.google.com/eng.ucsd.edu/cse-291-190-cer-winter-2021/): Introduction to Computing Education Research
+
+
 Fall 2020
 : [CSE 8A](https://sites.google.com/eng.ucsd.edu/cse8afall2020): Introduction to Programming in Python - co-taught with [Sorin Lerner](http://cseweb.ucsd.edu/~lerner/)
 
